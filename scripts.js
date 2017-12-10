@@ -5,6 +5,7 @@ var newName = 'Marian';
 
 if (allNames.indexOf(newName) === -1) {
 	allNames.push(newName);
+	
 } else {
 	console.log('Marian został już dodany');
 }
